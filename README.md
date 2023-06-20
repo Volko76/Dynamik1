@@ -1,2 +1,2 @@
 # Dynamik1
-volko.itch.io/dynamik
+https://volko.itch.io/dynamik
